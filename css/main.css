@@ -112,11 +112,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /*SECTION HEADERS*/
 #workHeader {
-  background-image: url("../img/code.jpg");
+  background-image: url("../img/code (2).jpg");
 }
 
 #contactHeader {
-  background-image: url("../img/arcade.jpg");
+  background-image: url("../img/architecture.jpg");
 }
 
 /*HERO SECTION*/
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 50vh;
   width: 100%;
   height: 100vh;
-  background-image: url("../img/hero.jpg");
+  background-image: url("../img/headerbackdrop2.jpg");
   background-size: cover;
 }
 
@@ -175,6 +175,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutText {
+  line-height: 1.5em;
+  font-size: 1.3em;
   width: 50%;
 }
 
