@@ -252,7 +252,9 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px;
   background: #2A85BC;
   color: #fff;
-  margin-right: 2vw;
+  /* margin-right: 2vw; */
+  margin-right:10px;
+  margin-left:10px;
   margin-bottom: 10px !important;
   padding-bottom: 10px !important;
 }
